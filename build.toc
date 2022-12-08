@@ -1,0 +1,26 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Starter}{1}{}%
+\contentsline {section}{\numberline {2}BIT1D}{2}{}%
+\contentsline {section}{\numberline {3}BIT2D}{2}{}%
+\contentsline {section}{\numberline {4}ConvexHullTrick}{2}{}%
+\contentsline {section}{\numberline {5}LineSegmentTree}{3}{}%
+\contentsline {section}{\numberline {6}PBDS}{4}{}%
+\contentsline {section}{\numberline {7}PersistentSegmentTree}{4}{}%
+\contentsline {section}{\numberline {8}SegTree}{5}{}%
+\contentsline {section}{\numberline {9}Geometry1}{5}{}%
+\contentsline {section}{\numberline {10}Geometry2}{7}{}%
+\contentsline {section}{\numberline {11}Bridge}{8}{}%
+\contentsline {section}{\numberline {12}Dinitz}{9}{}%
+\contentsline {section}{\numberline {13}FlowMinCost}{10}{}%
+\contentsline {section}{\numberline {14}LCA}{10}{}%
+\contentsline {section}{\numberline {15}MaximumMatching}{11}{}%
+\contentsline {section}{\numberline {16}Johnson}{12}{}%
+\contentsline {section}{\numberline {17}Diophantine}{13}{}%
+\contentsline {section}{\numberline {18}Eratosthenes}{13}{}%
+\contentsline {section}{\numberline {19}InverseModulo}{13}{}%
+\contentsline {section}{\numberline {20}MatrixExponentation}{13}{}%
+\contentsline {section}{\numberline {21}PrimeCheck}{14}{}%
+\contentsline {section}{\numberline {22}KMP}{15}{}%
+\contentsline {section}{\numberline {23}Trie-Multiset}{15}{}%
+\contentsline {section}{\numberline {24}Trie-Set}{15}{}%
+\contentsline {section}{\numberline {25}BigNum}{16}{}%
